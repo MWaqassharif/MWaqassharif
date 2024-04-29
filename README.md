@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waqas Sharif</h1>
-<h3 align="center">Machine learning Engineer</h3>
+<h3 align="center">focus on Data Science and Artificial Intelligence</h3>
 
-- 🌱 I’m currently doing **Machine learning**
+- 🌱 I’m currently doing **Machine learning and deep learning**
 
 - 💬 I am currently pursuing My **Master of Mathematics**
 
